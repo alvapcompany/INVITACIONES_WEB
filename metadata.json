@@ -1,0 +1,6 @@
+{
+  "name": "EventPass | Alva P Studio",
+  "description": "Plataforma de invitaciones digitales interactivas de lujo con RSVP en tiempo real, gestión de pases y sincronización con Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
